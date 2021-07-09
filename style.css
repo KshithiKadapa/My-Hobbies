@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
+
+body{
+    background-color: beige;
+    font-family: 'STIX Two Math', serif;
+
+}
+
+h1{
+    font-size: 100px;
+}
+
+p{
+    font-size: 50px;
+    color: crimson;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    font-size: 80px;
+}
+
+#brown{
+    color: brown;
+}
+
+img{
+    height: 1000px;
+    width: 1000px;
+    margin: 500px;
+}
